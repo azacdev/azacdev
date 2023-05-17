@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **azacdev@gmail.com**
 
-- ⚡ Fun fact **COD sweat**
+- ⚡ Fun fact **A COD Sweat**
 
 <h3 align="left">Connect with me:</h3>
 
