@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/azacdev" target="blank"><img src="https://img.shields.io/twitter/follow/azacdev?logo=twitter&style=for-the-badge" alt="azacdev" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Frontend Projects**
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **azacdev@gmail.com**
 
-- ⚡ Fun fact **A Call of Duty Sweat**
+- ⚡ Fun fact **Otaku**
 
 <h3 align="left">Connect with me:</h3>
 
