@@ -97,6 +97,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azacdev&show_icons=true&locale=en&layout=compact" alt="azacdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azacdev&show_icons=true&locale=en" alt="azacdev" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azacdev&show_icons=true&locale=en" alt="azacdev" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azacdev&" alt="azacdev" /></p>
