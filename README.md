@@ -50,9 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azacdev&" alt="azacdev" />
-</p>
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=azacdev&theme=blue-green)](https://github.com/azacdev/github-readme-stats)
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azacdev&show_icons=true&locale=en&layout=compact" alt="azacdev" />
