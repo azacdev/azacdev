@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **azacdev@gmail.com**
 
-- ⚡ Fun fact **I am also an Otaku**
+- ⚡ Fun fact **COD Tryhard**
 
 <h3>Connect with me:</h3>
 
