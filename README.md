@@ -11,13 +11,13 @@
 
 - 🔭 Bringing **Ideas to Life**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently honning my **Typescript** skills
 
-- 👯 I’m looking to collaborate on **Projects and Ideas**
+- 👯 Looking to collaborate on **Projects and Ideas**
 
 - 👨‍💻 All of my projects are available at [azacdev.github.io](azacdev.github.io)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Frontend Dev**
 
 - 📫 How to reach me **azacdev@gmail.com**
 
