@@ -9,7 +9,7 @@
 
 - 🔭 Bringing **Ideas to Life**
 
-- 🌱 I’m currently honning my **Next JS / Typescript** skills
+- 🌱 I’m currently honning my **Typescript and Node JS** skills
 
 - 👯 Looking to collaborate on **Projects and Ideas**
 
