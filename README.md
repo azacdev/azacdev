@@ -1,9 +1,18 @@
 [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://azacdev.io)
-<h1 align="center">Hi 👋, I'm Abdulrazak Abubakar</h1>
-<h3 align="center">A Frontend Engineer</h3>
+
+<h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+
+<!-- Animation Typing -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&size=30&width=800&lines=I'm+Abdulrazak+Abubakar;I'm+a+Web+Developer;"></a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdjN2Y5Nzk4MDZkNmFlMmViYzE4MWIwYTI0MGY0NDViZDBlYTgyZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<!-- About Me -->
+
+<h2>⚡️ About Me</h2>
 
 <p align="left"> <a href="https://twitter.com/azacdev" target="blank"><img src="https://img.shields.io/twitter/follow/azacdev?logo=twitter&style=for-the-badge" alt="azacdev" /></a> </p>
 
@@ -15,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [azacdev.github.io](azacdev.github.io)
 
-- 💬 Ask me about **Frontend Dev**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **azacdev@gmail.com**
 
@@ -49,8 +58,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
 </p>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=azacdev&theme=blue-green)](https://github.com/azacdev/github-readme-stats)
+<!-- Github Stats -->
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azacdev&show_icons=true&locale=en&layout=compact" alt="azacdev" />
-</p>
+## :fire: Github Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azacdev&&theme=tokyonight" alt="azacdev" /></p>
+
