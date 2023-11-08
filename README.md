@@ -39,7 +39,8 @@
 <a href="https://instagram.com/azacdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azacdev_" height="30" width="40" /></a>
 </p>
 
-[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://azacdev.io)
+
+<!-- [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://azacdev.io) -->
 
 
 <h2> My Tools </h2>
