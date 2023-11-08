@@ -10,6 +10,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdjN2Y5Nzk4MDZkNmFlMmViYzE4MWIwYTI0MGY0NDViZDBlYTgyZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 <!-- About Me -->
 
 <h2>⚡️ About Me</h2>
@@ -65,5 +66,4 @@
 
 ## :fire: Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azacdev&&theme=tokyonight" alt="azacdev" /></p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azacdev&theme=merko&hide_border=true&border_radius=3&card_width=490)](https://git.io/streak-stats)
