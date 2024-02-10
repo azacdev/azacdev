@@ -19,15 +19,15 @@
 
 - 🔭 Bringing **Ideas to Life**
 
-- 🌱 I’m currently honning my **Typescript and Node JS** skills
+- 🌱 I’m currently honning my **Node JS / Express** skills
 
 - 👯 Looking to collaborate on **Projects and Ideas**
 
 - 👨‍💻 All of my projects are available at [azacdev.github.io](azacdev.github.io)
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **Web and Mobile Dev**
 
-- 📫 How to reach me **azacdev@gmail.com**
+- 📫 Reach me **azacdev@gmail.com**
 
 - Fun Fact: A COD Sweat
 <h3>Connect with me:</h3>
