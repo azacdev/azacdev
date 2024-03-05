@@ -62,9 +62,3 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
 </p>
-
-<!-- Github Stats -->
-
-## :fire: Github Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azacdev&theme=merko&hide_border=true&border_radius=3&card_width=490)](https://git.io/streak-stats)
