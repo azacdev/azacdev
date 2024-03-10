@@ -29,7 +29,7 @@
 
 - 📫 Reach me **azacdev@gmail.com**
 
-- Fun Fact: A COD Sweat
+- Fun Fact: Retired COD Sweat
 <h3>Connect with me:</h3>
 
 <p>
