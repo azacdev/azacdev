@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://azacdev.io) -->
 
-<h2> My Tools </h2>
+<h2> Tech Stack </h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" ait="Nextjs" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" ait="Nodejs" height="40" width="40" />
